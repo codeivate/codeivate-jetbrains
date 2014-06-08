@@ -1,6 +1,6 @@
 codeivate-jetbrains
 ===================
-This is for Beta testing, download the current stable version through the Settings->plugin manager from within any Jetbrains IDE.    
+This is a custom Update server for Beta testing, download the current stable version through the Settings->plugin manager from within any Jetbrains IDE.    
 
 See http://plugins.jetbrains.com/plugin/7416   
 
