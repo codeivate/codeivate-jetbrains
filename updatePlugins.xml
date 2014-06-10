@@ -1,3 +1,3 @@
 <plugins>
-    <plugin id="com.codeivate.plugin" url="https://github.com/codeivate/codeivate-jetbrains/raw/0.2.2/codeivated.zip" version="0.2.2"/>
+    <plugin id="com.codeivate.plugin" url="https://github.com/codeivate/codeivate-jetbrains/raw/0.2.3/codeivated.zip" version="0.2.3"/>
 </plugins>
